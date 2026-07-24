@@ -13,9 +13,9 @@ Math & Statistics @ University of Waterloo · Quantitative Analyst across Rates,
 
 ### About Me
 
-I'm a Math/Statistics student at the University of Waterloo (co-op, class of 2027), building tools at the intersection of markets and code. I've spent my last three work terms on trading desks — RBC, BMO, and CIBC Capital Markets — building the analytics, automation, and models that traders and salespeople actually use day to day.
+I'm a Math/Statistics student at the University of Waterloo (co-op, class of 2028), building tools at the intersection of markets and code. I've spent my last three work terms on trading desks — RBC, BMO, and CIBC Capital Markets — building the analytics, automation, and models that traders and salespeople actually use day to day.
 
-- 🔭 Currently: full-time student at Waterloo, with an incoming return to **RBC Capital Markets** as a Quantitative Trading Analyst & AI Engineer (Equities & FICC Rotational Program)
+- 🔭 Currently: full-time student at Waterloo, with an incoming return to **RBC Capital Markets** as a Quantitative Trading Analyst & AI Engineer (Equities & FICC Rotational Program) this fall, followed by **Goldman Sachs** (Equities & FICC Rotational Program) in summer 2027
 - 🌱 Learning more about systematic trading and market-making models
 - 💬 Ask me about rates trading, market microstructure, or probability puzzles (I solve [Jane Street's](https://www.janestreet.com/puzzles/) monthly puzzle for fun)
 
