@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Quantitative%20Trading%20Analyst%20and%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&desc=Quantitative%20Trading%20Analyst%20and%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
 
 <a href="https://www.linkedin.com/in/william-oconnel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:woconnel@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
