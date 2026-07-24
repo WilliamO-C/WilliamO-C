@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&desc=Quantitative%20Trading%20Analyst%20and%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=150&section=header" />
+
+<h1>William O'Connell</h1>
+<h3>Quantitative Trading Analyst & AI Engineer</h3>
+<p><sub>Honours BMath, Co-op @ University of Waterloo &nbsp;·&nbsp; Rates · Credit · Equities</sub></p>
 
 <a href="https://www.linkedin.com/in/william-oconnel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:woconnel@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Honours+BMath%2C+Co-op+%40+University+of+Waterloo;Trading+desk+analytics%2C+automation+%26+models;Rates+%C2%B7+Credit+%C2%B7+Equities" alt="Typing SVG" />
 
 </div>
 
