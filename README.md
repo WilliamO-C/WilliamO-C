@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Quantitative%20Trading%20Analyst%20%26%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Quantitative%20Trading%20Analyst%20and%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
 
 <a href="https://www.linkedin.com/in/william-oconnel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:woconnel@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -70,15 +70,6 @@ I'm a Math student at the University of Waterloo (Honours BMath, Co-op, class of
 | 🏦 BMO Capital Markets | Global Markets Quantitative Analyst | Rates Sales, Strategy & Trading | Sep – Dec 2025 |
 | 🏦 CIBC Capital Markets | GM & IB Analyst | Securitization & Financial Institutions Group | Jan – Apr 2025 |
 | 🏦 CIBC Capital Markets | Global Markets Analyst | eFICC Trading | May – Aug 2024 |
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WilliamO-C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamO-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
 
 <br/>
 
