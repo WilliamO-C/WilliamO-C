@@ -1,64 +1,87 @@
-<h1 align="center">Hi, I'm William O'Connell 👋</h1>
+<div align="center">
 
-<p align="center">
-Math & Statistics @ University of Waterloo · Quantitative Analyst across Rates, Credit, and Equities desks
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=180&section=header&text=William%20O'Connell&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Quantitative%20Trading%20Analyst%20%26%20AI%20Engineer&descAlignY=62&descSize=16&fontAlignY=35" />
 
-<p align="center">
-<a href="https://www.linkedin.com/in/william-oconnel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="mailto:woconnel@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-woconnel%40uwaterloo.ca-D14836?style=flat&logo=gmail&logoColor=white"></a>
-</p>
+<a href="https://www.linkedin.com/in/william-oconnel/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:woconnel@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
----
+<br/><br/>
 
-### About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Honours+BMath%2C+Co-op+%40+University+of+Waterloo;Trading+desk+analytics%2C+automation+%26+models;Rates+%C2%B7+Credit+%C2%B7+Equities" alt="Typing SVG" />
 
-I'm a Math/Statistics student at the University of Waterloo (co-op, class of 2028), building tools at the intersection of markets and code. I've spent my last three work terms on trading desks — RBC, BMO, and CIBC Capital Markets — building the analytics, automation, and models that traders and salespeople actually use day to day.
+</div>
 
-- 🔭 Currently: full-time student at Waterloo, with an incoming return to **RBC Capital Markets** as a Quantitative Trading Analyst & AI Engineer (Equities & FICC Rotational Program) this fall, followed by **Goldman Sachs** (Equities & FICC Rotational Program) in summer 2027
-- 🌱 Learning more about systematic trading and market-making models
-- 💬 Ask me about rates trading, market microstructure, or probability puzzles (I solve [Jane Street's](https://www.janestreet.com/puzzles/) monthly puzzle for fun)
+<br/>
 
-### What I've Built
+## 👋 About Me
 
-- **Sales Recommendation Engine** (RBC) — predicts client demand for trade axes from historical flow and interaction data
-- **Commission Reconciliation Platform** (RBC) — automated error/dispute detection with counterparties, catching $1.5M/year in written-off commissions
-- **Bond Duration & Roll-Date Framework** (BMO) — generates cross-market trade ideas from historical trend analysis
-- **Markout Models** (BMO) — Python models using historical trade data to detect adverse flow and support desk decision-making
-- **Integrated Trading Dashboard** (BMO) — Power BI dashboard combining multiple SQL sources (DAX + VBA) to track rolls across bond forwards, repos, and TRS
-- **PnL Tracking & Test Suites** (CIBC) — VBA-based FYTD PnL tracker plus Python test suites for full code coverage
+I'm a Math student at the University of Waterloo (Honours BMath, Co-op, class of 2028), building tools at the intersection of markets and code. I've spent my last three work terms on trading desks — RBC, BMO, and CIBC Capital Markets — building the analytics, automation, and models that traders and salespeople actually use day to day.
 
-### Tools & Languages
+- 🔭 **Currently:** full-time student at Waterloo, with an incoming return to **RBC Capital Markets** this fall as a Quantitative Trading Analyst & AI Engineer
+- 🌱 **Learning:** systematic trading and market-making models
+- 💬 **Ask me about:** rates trading, market microstructure, or probability puzzles — I solve [Jane Street's](https://www.janestreet.com/puzzles/) monthly puzzle for fun
+- 🏆 Top 1% on Project Euler
+
+<br/>
+
+## 🚀 What I've Built
+
+<table>
+<tr><td width="200"><b>Sales Recommendation Engine</b><br/><sub>RBC</sub></td><td>Predicts client demand for credit trade axes from historical flow and interaction data, flagging relative value to factor indices to surface high-conviction trade ideas</td></tr>
+<tr><td><b>Bond Cost Basis Interpolator</b><br/><sub>RBC</sub></td><td>Estimates holding costs across SMA and public account portfolios for the Municipal Systematic Trading desk, enabling precise performance attribution</td></tr>
+<tr><td><b>Commission Reconciliation Platform</b><br/><sub>RBC</sub></td><td>Automated real-time error detection and counterparty dispute notifications — recovered $1.5M/year in previously written-off commissions</td></tr>
+<tr><td><b>Bond Duration & Roll-Date Framework</b><br/><sub>BMO</sub></td><td>Generates cross-market CAD trade ideas from historical trend analysis</td></tr>
+<tr><td><b>Markout Models</b><br/><sub>BMO</sub></td><td>Python models over historical trade data to detect adverse flow and support desk-level risk decisions</td></tr>
+<tr><td><b>Integrated Trading Dashboard</b><br/><sub>BMO</sub></td><td>Power BI dashboard combining multiple SQL sources (DAX + VBA) to track rolls across bond forwards, repos, and TRS</td></tr>
+<tr><td><b>Conduit Tracking System</b><br/><sub>CIBC</sub></td><td>Real-time VBA tool monitoring conduit commitments and funding allocations across a $10B+ deal portfolio</td></tr>
+<tr><td><b>PnL Tracking Suite</b><br/><sub>CIBC, eFICC Trading</sub></td><td>VBA program consolidating fiscal YTD algo and WM/Reuters PnL, plus 20+ SQL/Tableau views on PnL and trade delta</td></tr>
+</table>
+
+<br/>
+
+## 🛠️ Tools & Languages
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/VBA-2A5B84?style=flat">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=flat">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white">
-<img src="https://img.shields.io/badge/Bloomberg_Terminal-000000?style=flat">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+<img src="https://img.shields.io/badge/VBA-2A5298?style=for-the-badge">
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge">
+</p>
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+<img src="https://img.shields.io/badge/Bloomberg_Terminal-000000?style=for-the-badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
 
-Libraries: NumPy, Pandas, Matplotlib
+**Libraries:** NumPy, Pandas, Matplotlib &nbsp;·&nbsp; **Data platforms:** S&P Capital IQ, Fitch, Moody's, DBRS, KBRA
 
-### Experience
+<br/>
 
-| Firm | Role | Desk |
-|---|---|---|
-| RBC Capital Markets | Quantitative Trading Analyst & AI Engineer | Equities & FICC Rotational (Systematic Municipal Trading, Lev Fin, EQD Flow, IG Credit, Rates, Money Markets) |
-| BMO Capital Markets | Global Markets Quant Analyst | CAD Rates Sales, Strategy & Trading |
-| CIBC Capital Markets | GM&IB Analyst | Securitization & Financial Institutions Group |
-| CIBC Capital Markets | Global Markets Analyst | eFX Trading |
+## 💼 Experience
 
-### GitHub Stats
+| Firm | Role | Focus | Dates |
+|---|---|---|---|
+| 🏦 RBC Capital Markets | *Incoming* Quantitative Trading Analyst & AI Engineer | Equities & FICC Rotational Program | Sep – Dec 2026 |
+| 🏦 RBC Capital Markets | Quantitative Trading Analyst & AI Engineer | Municipal Systematic, Lev Fin, EQD Flow, IG Credit, Rates, Money Markets | Jan – Apr 2026 |
+| 🏦 BMO Capital Markets | Global Markets Quantitative Analyst | Rates Sales, Strategy & Trading | Sep – Dec 2025 |
+| 🏦 CIBC Capital Markets | GM & IB Analyst | Securitization & Financial Institutions Group | Jan – Apr 2025 |
+| 🏦 CIBC Capital Markets | Global Markets Analyst | eFICC Trading | May – Aug 2024 |
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WilliamO-C&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamO-C&layout=compact&hide_border=true" />
-</p>
+<br/>
 
----
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=WilliamO-C&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamO-C&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" />
 
 <p align="center"><i>Waterloo, ON · New York, NY</i></p>
