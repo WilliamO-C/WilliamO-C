@@ -10,7 +10,7 @@ Five work terms on trading desks — RBC, BMO, and CIBC Capital Markets — buil
 ## Experience
 
 <table>
-<tr><td width="44"><img src="logos/rbc.png" width="30"></td><td><b>RBC Capital Markets</b> — Quantitative Trading Analyst & AI Engineer, Global Edge Program<br><sub>New York, NY · Sep – Dec 2026 (incoming)</sub></td></tr>
+<tr><td width="44"><img src="logos/rbc.png" width="30"></td><td><b>RBC Capital Markets</b> — Quantitative Trading Analyst & AI Engineer, Global Edge Program<br><sub>New York, NY · Sep – Dec 2026 (current)</sub></td></tr>
 <tr><td><img src="logos/rbc.png" width="30"></td><td><b>RBC Capital Markets</b> — Quantitative Trading Analyst & AI Engineer, Municipal Systematic / Lev Fin / EQD Flow / IG Credit / Rates / Money Markets<br><sub>Jan – Apr 2026</sub></td></tr>
 <tr><td><img src="logos/bmo.png" width="30"></td><td><b>BMO Capital Markets</b> — Global Markets Quantitative Analyst, Rates Sales, Strategy & Trading<br><sub>Sep – Dec 2025</sub></td></tr>
 <tr><td><img src="logos/cibc.png" width="30"></td><td><b>CIBC Capital Markets</b> — GM & IB Analyst, Securitization & Financial Institutions Group<br><sub>Jan – Apr 2025</sub></td></tr>
